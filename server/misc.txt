@@ -1,0 +1,2 @@
+
+  // "proxy": "http://localhost:5002", - from package.json  before the scripts
